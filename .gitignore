@@ -1,0 +1,18 @@
+.idea/
+*.pyc
+py3/
+data/
+build/
+dist/
+.pytest_cache/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+*db
